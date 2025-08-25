@@ -58,7 +58,8 @@ Designed a **meditation timer app** for mindfulness and simplicity.
 - Timer controls: Start, Pause, Reset  
 - Presets: 5, 10, 15, 25 minutes  
 - Calming background with progress ring  
-- Bonus: Sound selection (nature, ocean, music) 🎶  
+- Bonus: Sound selection (nature, ocean, music) 🎶
+  🔗 [View Design](https://www.figma.com/design/NKBecfCmoq0x0GwC8VXyP3/Task-4--Design-a-Meditation-Timer-App?node-id=0-1&t=S9g0pZWOoW1JDtcP-1)
 
 🛠️ Tools Used: Figma  
 📚 Focus: Focused, user-friendly UI for mindfulness  
